@@ -1,11 +1,7 @@
 # Uber-Data-Analytics
 Technology Used
-Programming Language - Python
-Google Cloud Platform
-Google Storage
-Compute Instance
-BigQuery
-Looker Studio
+Programming Language - Python, Google Cloud Platform, Google Storage, Compute Instance, BigQuery, Looker Studio
+
 Modern Data Pipeine Tool - https://www.mage.ai/
 
 Dataset Used
